@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FirstChar</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="array_temp_person_name">
+        <item>aaaaa</item>
+        <item>bbbbb</item>
+        <item>ccccc</item>
+        <item>ddddd</item>
+        <item>eeeee</item>
+        <item>fffff</item>
+        <item>ggggg</item>
+        <item>hhhhh</item>
+        <item>iiiii</item>
+        <item>jjjjj</item>
+        <item>kkkkk</item>
+        <item>lllll</item>
+        <item>mmmmm</item>
+        <item>nnnnn</item>
+        <item>ooooo</item>
+        <item>ppppp</item>
+        <item>qqqqq</item>
+        <item>rrrrr</item>
+        <item>sssss</item>
+        <item>ttttt</item>
+        <item>uuuuu</item>
+        <item>vvvvv</item>
+        <item>wwwww</item>
+        <item>xxxxx</item>
+        <item>yyyyy</item>
+        <item>zzzzz</item>
+    </string-array>
+</resources>
